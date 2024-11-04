@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 44" style="enable-background:new 0 0 18 44;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#212529;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#mask-2_00000173163247738124482460000006317839291979011980_);fill-rule:evenodd;clip-rule:evenodd;fill:#212529;}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_00000164479581770945747990000009905192554846967980_);}
+	.st5{mask:url(#mask-4_00000079487485305904210180000010267750303605845916_);fill-rule:evenodd;clip-rule:evenodd;fill:#212529;}
+</style>
+<g id="Page-1">
+	<g id="Tein-Soluciones--I" transform="translate(-881, -171)">
+		<g id="mouse" transform="translate(881, 171)">
+			<path id="Fill-1" class="st0" d="M17.9,33.1c0.2-0.2,0.2-0.5,0.1-0.7c-0.1-0.2-0.4-0.4-0.6-0.4H0.7c-0.3,0-0.5,0.1-0.6,0.4
+				C0,32.5,0,32.6,0,32.7c0,0.1,0,0.3,0.1,0.4l8.3,10.6C8.6,43.9,8.8,44,9,44c0.2,0,0.4-0.1,0.6-0.3L17.9,33.1z"/>
+			<g id="Group-5" transform="translate(9, 6) rotate(90) translate(-9, -6)translate(3, -3)">
+				<g id="Clip-4">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" id="mask-2_00000173163247738124482460000006317839291979011980_">
+					<g class="st1">
+						<polygon id="path-1_00000133499783891776278780000003266604700196153501_" class="st2" points="0,0 12,0 12,18 0,18 						"/>
+					</g>
+				</mask>
+				<path id="Fill-3" class="st3" d="M11.6,0.1C11.4,0,11.1,0,10.9,0.1L0.3,8.4C0.1,8.6,0,8.8,0,9c0,0.2,0.1,0.4,0.3,0.6l10.6,8.3
+					C11,18,11.2,18,11.3,18c0.1,0,0.2,0,0.3-0.1c0.2-0.1,0.4-0.4,0.4-0.6V0.7C12,0.4,11.9,0.2,11.6,0.1"/>
+			</g>
+			<g id="Clip-7" transform="translate(9, 22) rotate(90) translate(-9, -22)">
+			</g>
+			<defs>
+				
+					<filter id="Adobe_OpacityMaskFilter_00000112628849982593693270000004540185282393524654_" filterUnits="userSpaceOnUse" x="7" y="11" width="4" height="22">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			
+				<mask maskUnits="userSpaceOnUse" x="7" y="11" width="4" height="22" id="mask-4_00000079487485305904210180000010267750303605845916_">
+				
+					<g transform="translate(9, 22) rotate(90) translate(-9, -22)" style="filter:url(#Adobe_OpacityMaskFilter_00000112628849982593693270000004540185282393524654_);">
+					<polygon id="path-3_00000060718221779340122400000014882871024344853140_" class="st2" points="0,0 0,44 18,44 18,0 					"/>
+				</g>
+			</mask>
+			<polygon id="Fill-6" class="st5" points="7,11 7,33 11,33 11,11 			"/>
+		</g>
+	</g>
+</g>
+</svg>
